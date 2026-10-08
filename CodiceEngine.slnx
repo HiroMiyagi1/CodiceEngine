@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CodiceEngine.Console/CodiceEngine.Console.csproj" />
+  <Project Path="CodiceEngine.Tests/CodiceEngine.Tests.csproj" />
+  <Project Path="CodiceEngine.WinForms/CodiceEngine.WinForms.csproj" />
+  <Project Path="CodiceEngine/CodiceEngine.csproj" />
+</Solution>
